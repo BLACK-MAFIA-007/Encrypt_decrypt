@@ -784,6 +784,3 @@ if __name__ == '__main__':
     else:
         os.system('mkdir unpyc')
         menu() 
-
-
-	DECOMPILED BY HAMII
