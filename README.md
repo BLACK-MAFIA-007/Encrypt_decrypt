@@ -14,4 +14,4 @@ git clone https://github.com/BLACK-MAFIA-007/encrypt_decrypt.py.git
 
 cd encrypt_decrypt
 
-python2 encrypt_decrypt.py
+python2 Encrypt_decrypt.py
