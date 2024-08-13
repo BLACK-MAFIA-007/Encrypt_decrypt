@@ -96,7 +96,7 @@ def load(word):
 
 
 def banner_dec():
-    banner = (" \n    __  __                _ _ \n  \x1b[1;95m____        _     _ _ \n\x1b[1;96m / ___|  __ _| |__ (_) | \n  \___ \ / _` | '_ \| | | \n\x1b[1;93m  ___) | (_| | | | | | |\n\x1b[1;95m |____/ \__,_|_| |_|_|_||\n\x1b[1;91m---------------------------------------------\n\x1b[1;93mFROM : KPK PAKISTAN \n\x1b[1;36m(*) AUTHOR NAME :\x1b[1;96mHAMID MEER\n\x1b[1;97m(*)WHATSAPP NO : +923155912839\n\x1b[1;36m(*)ARY KOI TO PATA LO GAREEB KI DUA LAGY GI \x1a\x1a\n\x1b[1;93m(*) FACEBOOK ID : HAMID MEER'HAMII\n\x1b[1;96m(*) WARNING : STAY HOME STAY SAVE\n\x1b[1;37m-----------------------------------------------").format(m, p)
+    banner = (" \n    __  __                _ _ \n  \x1b[1;95m____        _     _ _ \n\x1b[1;96m / ___|  __ _| |__ (_) | \n  \___ \ / _` | '_ \| | | \n\x1b[1;93m  ___) | (_| | | | | | |\n\x1b[1;95m |____/ \__,_|_| |_|_|_||\n\x1b[1;91m---------------------------------------------\n\x1b[1;93mFROM : INDIA\n\x1b[1;36m(*) AUTHOR NAME :\x1b[1;96mSAHIL KHAN\n\x1b[1;97m(*)WHATSAPP NO : +923155912839\n\x1b[1;36m(*)ARY KOI TO PATA LO GAREEB KI DUA LAGY GI \x1a\x1a\n\x1b[1;93m(*) FACEBOOK ID : HAMID MEER'HAMII\n\x1b[1;96m(*) WARNING : STAY HOME STAY SAVE\n\x1b[1;37m-----------------------------------------------").format(m, p)
     running(banner)
 
 
@@ -786,4 +786,4 @@ if __name__ == '__main__':
         menu() 
 
 
-	DECOMPILED BY SAHIL 
+	DECOMPILED BY HAMII
